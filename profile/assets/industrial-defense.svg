@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">MKDL · Industrial cybersecurity</title>
+  <desc id="desc">A protective shield surrounds a small factory, a workstation and an industrial controller. Network paths join the assets. Incoming signals stop at the shield boundary.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#1d192c"/><stop offset="1" stop-color="#352943"/>
+    </linearGradient>
+    <linearGradient id="shield" x2="0" y2="1">
+      <stop stop-color="#ac91cd" stop-opacity=".22"/><stop offset="1" stop-color="#ac91cd" stop-opacity=".04"/>
+    </linearGradient>
+    <linearGradient id="factory" x2="0" y2="1">
+      <stop stop-color="#e9d1a9"/><stop offset="1" stop-color="#caa579"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#c1a6dc" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <ellipse cx="600" cy="307" rx="370" ry="23" fill="#b49bd0" opacity=".07"/>
+  <path d="M600 30c-91 44-203 61-320 61v93c0 82 126 127 320 153 194-26 320-71 320-153V91c-117 0-229-17-320-61Z" fill="url(#shield)" stroke="#b99ed4" stroke-width="3"/>
+  <path d="M600 44c-87 40-188 55-304 60v80c0 71 122 114 304 139 182-25 304-68 304-139v-80c-116-5-217-20-304-60Z" fill="none" stroke="#b99ed4" stroke-width="1" opacity=".28"/>
+  <g fill="none" stroke="#95cec5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M414 210h58v50h128m186-50h-58v50H600m0 0v28"/>
+    <path d="M353 274h71m351 0h72" opacity=".5"/>
+  </g>
+  <g fill="#95cec5">
+    <circle cx="414" cy="210" r="5"/><circle cx="786" cy="210" r="5"/>
+    <circle cx="600" cy="260" r="6"/><circle cx="600" cy="288" r="4"/>
+  </g>
+  <g stroke="#ebd7b9" stroke-width="3" stroke-linejoin="round">
+    <path d="M515 218v-64l44-27v27l44-27v27l45-27v91Z" fill="url(#factory)"/>
+    <path d="M645 149V99h25v119h-25" fill="#c5a17d"/>
+    <path d="M646 99h24" stroke="#f3e1c4" stroke-width="6"/>
+  </g>
+  <g fill="#49364f">
+    <rect x="531" y="166" width="17" height="18" rx="2"/>
+    <rect x="569" y="166" width="17" height="18" rx="2"/>
+    <rect x="607" y="166" width="17" height="18" rx="2"/>
+    <rect x="564" y="197" width="34" height="21" rx="2"/>
+  </g>
+  <path d="M504 225h177" stroke="#ebd7b9" stroke-width="4" stroke-linecap="round"/>
+  <g fill="none" stroke="#cfb6e4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="350" y="156" width="92" height="61" rx="7" fill="#292136"/>
+    <path d="M396 219v15m-27 0h54m-58-61 8 7-8 7m19 0h17"/>
+    <path d="M352 242h88" opacity=".45"/>
+    <rect x="760" y="143" width="74" height="98" rx="7" fill="#292136"/>
+    <path d="M773 160h48m-48 17h48m-48 17h48m-42 30h7m10 0h7m10 0h7"/>
+  </g>
+  <g fill="#95cec5">
+    <circle cx="778" cy="209" r="4"/><circle cx="793" cy="209" r="4"/>
+  </g>
+  <circle cx="808" cy="209" r="4" fill="#e9c992"/>
+  <g fill="none" stroke="#d99c96" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 161h96l25 25h40m-11-9 11 9-11 9"/>
+    <path d="M104 232h66l22-22h47m-11-9 11 9-11 9" opacity=".5"/>
+    <path d="M1104 161h-96l-25 25h-40m11-9-11 9 11 9"/>
+    <path d="M1096 232h-66l-22-22h-47m11-9-11 9 11 9" opacity=".5"/>
+  </g>
+  <path d="M270 168v45m660-45v45" stroke="#95cec5" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#b99ed4">
+    <path d="m183 69 2 8 8 2-8 2-2 8-2-8-8-2 8-2Zm834 9 2 7 7 2-7 2-2 7-2-7-7-2 7-2Z"/>
+    <circle cx="121" cy="286" r="2"/><circle cx="1068" cy="286" r="2"/>
+  </g>
+</svg>

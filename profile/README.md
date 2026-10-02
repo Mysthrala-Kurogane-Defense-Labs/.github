@@ -2,6 +2,8 @@
 
 **Ciberseguridad industrial para pequeñas empresas y microempresas de Bajo Deba y Euskadi.**
 
+![Defensa de una pequeña planta industrial: fábrica, puesto de trabajo y controlador conectados dentro de un escudo](https://raw.githubusercontent.com/Mysthrala-Kurogane-Defense-Labs/.github/main/profile/assets/industrial-defense.svg)
+
 MKDL trabaja sobre activos, accesos, incidencias y evidencias, con un alcance acordado y revisión humana. Kurogane Hub es la tecnología propia que apoya ese trabajo.
 
 [Servicios y alcance](https://mkdl.jp/#trabajo) · [Contacto: info@mkdl.jp](mailto:info@mkdl.jp) · [Fundadora: Kalista / Tears Mysthrala](https://github.com/tears-mysthrala)
